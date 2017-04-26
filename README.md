@@ -1,4 +1,6 @@
 
+![build is what](https://travis-ci.org/yanwork/pcf-articulate-code.svg?branch=master)
+
 # Articulate
 
 A sample application built with [Spring Boot](http://projects.spring.io/spring-boot/) that demonstrates capabilities of Cloud Foundry.
